@@ -1,7 +1,7 @@
-package com.luizgamer.netbeansteste.meuJogo;
+package com.luizgamer99.game.meuJogo;
 
 import javax.swing.JFrame;
-import com.luizgamer.netbeansteste.meuJogo.modelo.Fase;
+import com.luizgamer99.game.meuJogo.modelo.Fase;
 
 public class Janela extends JFrame
 {
