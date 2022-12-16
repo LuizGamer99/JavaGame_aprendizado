@@ -1,4 +1,4 @@
-package com.luizgamer.netbeansteste.meuJogo.modelo;
+package com.luizgamer99.game.meuJogo.modelo;
 
 import java.awt.Image;
 import java.awt.Graphics;
